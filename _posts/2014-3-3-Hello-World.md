@@ -13,6 +13,6 @@ Segunda Sección
 
 ## Código
 
-''' java
+```java
 saludo("Hola Mundo");
-'''
+```
